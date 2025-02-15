@@ -1,0 +1,26 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Login -> Navigate to page 'html#inventory.html'",
+        "step 3: Click on div AppLogo",
+        "step 4: Click on button OpenMenu",
+        "step 5: Click on link AllItems",
+        "step 6: Click on link AllItems",
+        "step 7: Click on div AppLogo",
+        "step 8: Click on button addToCart (CloseMenu)",
+        "step 9: Click on button addToCart (AddToCart)",
+        "step 10: Click on button addToCart (AddToCart2)",
+        "step 11: Click on button addToCart (AddToCart3)",
+        "step 12: Click on button addToCart (AddToCart4)",
+        "step 13: Click on link ShoppingCart -> Navigate to page 'static#cart.html'",
+        "step 14: Click on link ShoppingCart",
+        "step 15: Click on button Checkout -> Navigate to page 'checkout process#checkout-step-one.html'",
+        "step 16: Click on input FirstName",
+        "step 17: Click on input LastName",
+        "step 18: Click on input PostalCode",
+        "step 19: Click on input Continue -> Navigate to page 'checkout#checkout-step-two.html'",
+        "step 20: Click on button Finish -> Navigate to page 'checkout complete#checkout-complete.html'",
+        "step 21: Click on button BackHome -> Navigate to page ''",
+        "step 22: Take full page screenshot as checkpoint"
+    ]
+}
